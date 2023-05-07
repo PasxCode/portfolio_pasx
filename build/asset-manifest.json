@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f41c0d4.css",
+    "main.js": "/static/js/main.1fc018be.js",
+    "static/media/inelec.png": "/static/media/inelec.e809f30fcfcd111c4fa0.png",
+    "static/media/uhu.jpg": "/static/media/uhu.0f098adbfa19b49c7822.jpg",
+    "static/media/hometech.jpg": "/static/media/hometech.52d1f6a46260a832fd0e.jpg",
+    "static/media/foto.png": "/static/media/foto.18f5df07b42b67bc08eb.png",
+    "static/media/voltios.jpg": "/static/media/voltios.71f76b934cd127c8f254.jpg",
+    "static/media/tecnologias.png": "/static/media/tecnologias.92ae2d8d6e062eb84228.png",
+    "static/media/3_prActividades.png": "/static/media/3_prActividades.53524fde7446002fd3f3.png",
+    "static/media/2_prCalculadora.png": "/static/media/2_prCalculadora.aca8c311bb4b027457b2.png",
+    "static/media/Logo_PASXCODE.png": "/static/media/Logo_PASXCODE.75067e0a7e40732dc612.png",
+    "static/media/securitas.png": "/static/media/securitas.517782d2c12af3e6cd7f.png",
+    "index.html": "/index.html",
+    "main.7f41c0d4.css.map": "/static/css/main.7f41c0d4.css.map",
+    "main.1fc018be.js.map": "/static/js/main.1fc018be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f41c0d4.css",
+    "static/js/main.1fc018be.js"
+  ]
+}
