@@ -28,7 +28,7 @@ function App() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbar-toggler">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="#navbar-toggler">
             <img src={logo} width="150" alt="Logo de la página web"/>
           </a>
           <ul className="navbar-nav d-flex justify-content-center align-items-center">
