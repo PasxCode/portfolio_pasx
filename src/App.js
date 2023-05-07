@@ -28,11 +28,7 @@ function App() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbar-toggler">
-<<<<<<< HEAD
           <a className="navbar-brand" href="#navbar-toggler">
-=======
-          <a className="navbar-brand">
->>>>>>> e42677449b86947a661942e5b32a098098ad2595
             <img src={logo} width="150" alt="Logo de la página web"/>
           </a>
           <ul className="navbar-nav d-flex justify-content-center align-items-center">
